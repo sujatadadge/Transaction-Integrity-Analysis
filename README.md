@@ -40,3 +40,107 @@ import numpy as np
 
 df = pd.read_csv('creditcard.csv')
 df.head()
+2️⃣ Data Cleaning
+
+Handle missing values and duplicates
+
+Rename columns (if necessary)
+
+Normalize and understand distributions
+
+3️⃣ Statistical Analysis with NumPy
+
+Compute mean, median, variance, and standard deviation
+
+Compare fraud vs non-fraud transactions
+
+Detect anomalies using threshold-based methods
+
+4️⃣ Exploratory Data Analysis (EDA)
+
+Correlation between features and target class
+
+Fraud rate vs transaction amount and time
+
+Statistical difference between fraud and genuine transactions
+
+📈 Key Findings
+
+Only 0.17% of transactions are fraudulent
+
+Fraud transactions often involve smaller average amounts
+
+PCA components such as V14, V17, and V12 show strong fraud correlation
+
+Fraud tends to occur during specific time periods
+
+🧮 Concepts Applied
+
+Data Cleaning and Filtering
+
+Descriptive Statistics
+
+Outlier Detection
+
+Correlation Analysis
+
+Data Imbalance Handling
+
+💾 How to Run
+
+Upload your creditcard.csv file to Google Colab
+
+Run:
+
+import pandas as pd, numpy as np
+df = pd.read_csv('creditcard.csv')
+
+
+Continue with EDA and statistical analysis steps
+
+💡 Future Enhancements
+
+Implement ML models (Logistic Regression, Random Forest)
+
+Handle imbalance using SMOTE or undersampling
+
+Visualize insights with Matplotlib or Seaborn
+
+✨ Author
+
+Sujata Dadge
+📊 Aspiring Data Analyst | Financial Data Enthusiast
+🔗 LinkedIn Profile
+
+🌐 Kaggle Profile
+
+💬 Summary
+
+“Transaction Integrity Analysis” focuses on understanding and maintaining trust in financial systems through analytical methods.
+By using Pandas and NumPy, this project reveals patterns and insights that help identify fraudulent behavior in real-world credit card transactions.
+
+
+---
+
+## 💼 **LinkedIn Featured Description**
+> 💳 **Transaction Integrity Analysis**  
+> Explored financial transaction data using **Python (Pandas & NumPy)** to detect anomalies and ensure data accuracy.  
+> Focused on cleaning, transformation, and statistical exploration of real-world banking data.  
+> **Tools:** Python, Pandas, NumPy, Google Colab  
+
+---
+
+## 💬 **LinkedIn Post Caption**
+> 🚀 Just completed my new data analysis project — **Transaction Integrity Analysis** 💳  
+> Using **Python (Pandas & NumPy)**, I analyzed over 280K+ financial transactions to detect patterns, identify anomalies, and study fraud behavior.  
+>  
+> 💻 Focus Areas: Data Cleaning | Statistical Insights | Exploratory Data Analysis  
+>  
+> 📊 Tools Used: *Python | Pandas | NumPy | Google Colab*  
+>  
+> 🔗 Check out my full project on GitHub: [GitHub link here]  
+
+---
+
+Would you like me to **generate this as a formatted `README.md` file** (ready to upload to your repo)?  
+It’ll include all emojis, formatting, and section spacing perfectly aligned for GitHub display.
