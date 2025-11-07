@@ -122,25 +122,3 @@ By using Pandas and NumPy, this project reveals patterns and insights that help 
 
 ---
 
-## 💼 **LinkedIn Featured Description**
-> 💳 **Transaction Integrity Analysis**  
-> Explored financial transaction data using **Python (Pandas & NumPy)** to detect anomalies and ensure data accuracy.  
-> Focused on cleaning, transformation, and statistical exploration of real-world banking data.  
-> **Tools:** Python, Pandas, NumPy, Google Colab  
-
----
-
-## 💬 **LinkedIn Post Caption**
-> 🚀 Just completed my new data analysis project — **Transaction Integrity Analysis** 💳  
-> Using **Python (Pandas & NumPy)**, I analyzed over 280K+ financial transactions to detect patterns, identify anomalies, and study fraud behavior.  
->  
-> 💻 Focus Areas: Data Cleaning | Statistical Insights | Exploratory Data Analysis  
->  
-> 📊 Tools Used: *Python | Pandas | NumPy | Google Colab*  
->  
-> 🔗 Check out my full project on GitHub: [GitHub link here]  
-
----
-
-Would you like me to **generate this as a formatted `README.md` file** (ready to upload to your repo)?  
-It’ll include all emojis, formatting, and section spacing perfectly aligned for GitHub display.
